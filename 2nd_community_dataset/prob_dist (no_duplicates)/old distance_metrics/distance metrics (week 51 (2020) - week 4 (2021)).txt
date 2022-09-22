@@ -1,0 +1,11 @@
+The distance between week 51 and week 52: 0.09184565839857405 
+
+The distance between week 52 and week 53: 0.17373862228754475 
+
+The distance between week 53 and week 01: 0.10582816926072752 
+
+The distance between week 01 and week 02: 0.04817568536396766 
+
+The distance between week 02 and week 03: 0.00437014867500873 
+
+The distance between week 03 and week 04: 0.005570218415861333 

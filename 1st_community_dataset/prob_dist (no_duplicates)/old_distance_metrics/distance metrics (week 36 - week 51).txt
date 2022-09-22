@@ -1,0 +1,29 @@
+The distance between week 36 and week 37: 0.862650648520249 
+
+The distance between week 37 and week 38: 0.028979001891724497 
+
+The distance between week 38 and week 39: 0.139487052693677 
+
+The distance between week 39 and week 40: 0.31961590799836787 
+
+The distance between week 40 and week 41: 0.4517996169296317 
+
+The distance between week 41 and week 42: 0.30831337606074044 
+
+The distance between week 42 and week 43: 0.30163724621596527 
+
+The distance between week 43 and week 44: 0.17886335908927606 
+
+The distance between week 44 and week 45: 0.48499384271936075 
+
+The distance between week 45 and week 46: 0.4572908077371075 
+
+The distance between week 46 and week 47: 0.19373584735520183 
+
+The distance between week 47 and week 48: 0.20785574008401445 
+
+The distance between week 48 and week 49: 0.003123835856153528 
+
+The distance between week 49 and week 50: 0.014592467791452962 
+
+The distance between week 50 and week 51: 0.02159997861854032
